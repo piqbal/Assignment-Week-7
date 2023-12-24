@@ -5,7 +5,7 @@
 function insert(arr:number[], index:number[], value:number){
 
     let newarray=arr.splice(0,1,12)
-    let modify=newarray.unshift(15)
+    
     console.log(arr);
     
     
